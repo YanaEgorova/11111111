@@ -21,7 +21,7 @@
 }
 .section-content {
   min-height: 100%;
-  overflow: scroll;
+  overflow: auto;
   flex-grow: 1;
   position: relative;
   transition: all 0.3s ease-in-out;
