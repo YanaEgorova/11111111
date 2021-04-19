@@ -13,7 +13,7 @@
   overflow: auto;
 }
 .menu-wrapper__box {
-  overflow: scroll;
+  overflow: auto;
   min-height: 100%;
   display: flex;
   flex-direction: column;
